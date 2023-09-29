@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Merriweather', serif;
+}
+body{
+  background-image:url(images/sunset-3875817_640.jpg);  
+  background-position:center;
+  background-size:cover;
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.glass{
+    width: 75%;
+    height:50%;
+    box-shadow:0 0 8px rgba(255,255,255,1);
+    
+
+}
+ 
