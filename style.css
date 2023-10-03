@@ -35,7 +35,7 @@ nav ul{
 
 }
 nav ul li{
-  list-style:none;
+  list-style:no
   display:inline-block;
   margin:0 20px;
   transition: 0.6s ease-out;
