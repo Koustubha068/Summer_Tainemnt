@@ -4,8 +4,9 @@
     box-sizing:border-box;
     font-family: 'Merriweather', serif;
 }
-body{
-  background-image:url(images/sunset-3875817_640.jpg);  
+
+#background.img-fluid{
+    background-image:url(images/sunset-3875817_640.jpg);  
   background-position:center;
   background-size:cover;
   height:100vh;
@@ -15,14 +16,13 @@ body{
   backdrop-filter:blur(2px);
 }
 
+
 .glass{
     width: 75%;
-    height:50%;
-    box-shadow:0 0 8px rgba(255,255,255,1);
+    height:60%;
+    box-shadow:0 0 10px rgba(255,255,255,1);
     background-image:url(images/sunset-3875817_640.jpg);
     background-size:cover;
-    
-
 }
  
 nav{
@@ -35,7 +35,7 @@ nav ul{
 
 }
 nav ul li{
-  list-style:no
+  list-style:none;
   display:inline-block;
   margin:0 20px;
   transition: 0.6s ease-out;
