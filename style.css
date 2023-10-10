@@ -69,6 +69,22 @@ h1{
  justify-content:center;
 
 }
+
+
+/* start of imagge with lists*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* end of imagge with lists*/
 /*start of card*/
 a{
   text-decoration:none;
@@ -106,17 +122,17 @@ a{
   transform:translate(0,-9px);
 }
 .img-1{
-  background-image:url(images/brooklyn-bridge-105079_640.jpg);
+  background-image:url(images/buildings-1835647_640.jpg);
   background-size:cover;
   background-position:center center;
 }
   .img-2{
-    background-image:url(images/madame-tussaud-1473243_640.jpg);
+    background-image:url(images/madam-tussaud-museum-3705312_640.jpg);
     background-size:cover;
     background-position:center center;
 }
 .img-3{
-  background-image:url(images/sunset-3875817_640.jpg);
+  background-image:url(images/empire-state-building-6858030_640.jpg);
   background-size:cover;
   background-position:center center;
 }
@@ -165,7 +181,7 @@ a{
     flex-direction:column;
   }
   a{
-    margin-bottom:35px;
+    margin-bottom:40px;
   }
 }
 
