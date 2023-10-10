@@ -184,5 +184,65 @@ a{
     margin-bottom:40px;
   }
 }
+.container{
+  margin:100px auto;
+  width:75%
+}
+img{
+  max-width:350px;
+  display:flex;
+  float:left;
+  border-radius:10px;
+  border:3px solid white;
+  margin-right:20px;
+
+}
+.text h3{
+  font-size:40px;
+  padding:5px;
+  color:white;
+  font-family: 'Tinos', serif;
+}
+.text h4{
+  font-family: 'Merriweather', serif;
+  font-size:25px;
+  color:white;
+}
+.text p{
+  color:white;
+  font-size:15px;
+  font-family: 'Merriweather', serif;
+}
+.text li{
+  color:white;
+  font-size:13px;
+  font-family: 'Merriweather', serif;
+}
 
 
+.card-header{
+  font-size:20px;
+  color:rgb(235, 230, 230);
+  background:rgb(30, 30, 34);
+  font-family: 'Merriweather', serif;
+}
+.card-body{
+  background:rgb(56, 55, 55);
+  border-radius:3%;
+}
+.card-body h5{
+  color:rgb(173, 170, 170);
+  font-family: 'Tinos', serif;
+  font-size:20px;
+}
+.card-text{
+  font-size:20px;
+  color:white;
+  font-family: 'Tinos', serif;
+}
+.btn btn-primary{
+  background-color:black;
+}
+.card-footer text-body-secondary{
+ color:black;
+}
